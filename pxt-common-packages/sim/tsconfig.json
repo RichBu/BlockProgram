@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "outFile": "../built/common-sim.js",
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ES2017"
+        ],
+        "rootDir": "../libs",
+        "newLine": "LF",
+        "declaration": true,
+        "sourceMap": false,
+        "types": []
+    },
+    "include": [
+        "../libs/*/sim/*.ts"
+    ]
+}
+

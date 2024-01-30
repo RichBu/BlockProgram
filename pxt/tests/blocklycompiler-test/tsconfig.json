@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "declaration": true,
+        "outFile": "../../built/tests/tests.spec.js",
+        "newLine": "LF",
+        "types": [
+            "chai",
+            "mocha"
+        ],
+        "sourceMap": false,
+        "skipLibCheck": true
+    },
+    "files": [
+        "test.spec.ts",
+        "commentparsing.spec.ts",
+        "fieldUserEnum.spec.ts"
+    ]
+}
