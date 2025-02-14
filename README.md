@@ -1,6 +1,6 @@
 # README #
 
-This is the main repo and folder structure for TinkRcode 2.0.
+This is the main repo and folder structure for block and text editor.
 
 
 ### What is this repository for? ###
